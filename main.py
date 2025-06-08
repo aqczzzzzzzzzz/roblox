@@ -9,7 +9,7 @@ app = Flask(__name__)
 user_ids = [2346725415, 5589770247, 4456108587, 3023198676, 240311709]
 
 # Your Discord webhook URL
-webhook_url = "https://discord.com/api/webhooks/1364600481715982426/PNOfhEBw8RKwaWkhvzJtEmj_Si6wmJ4vpBXEJn9Ho6iRPSYVltFSV7HIrZ4CDjrIa2Lv"
+webhook_url = "https://discord.com/api/webhooks/1381285268392251474/vwf_QLoXtHx8Sh67GlGV_9G83IFOBr2mPGgbMiTtnEeGcBEmPUCoRLS7RbQ2rkHhrBpH"
 
 # Your Discord user ID (optional)
 discord_user_id = 968508934249910273
